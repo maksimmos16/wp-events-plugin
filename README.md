@@ -13,5 +13,24 @@ Navigate to Events > Event Tags.
 ```
 [single_event id="57"]
 ```
+**Display a list of 4 events:**
+```
+[events_list count="4"]
+```
+**Display a list of 7 events with specific category and tag:**
+```
+[events_list count="7" categories="category-slug" tags="tag-slug"]
+```
+**Display a grid of 6 events:**
+```
+[events_grid count="6"]
+```
+**Display a grid of 7 events with specific category and tag:**
+```
+[events_grid count="7" categories="category-slug" tags="tag-slug"]
+```
+
+
+
 
 
